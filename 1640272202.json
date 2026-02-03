@@ -120,18 +120,18 @@
 "fileLoggerMBCapacity": 50
 },
 "loyaltySettings": {
-"alphaBankBonusEnabled": true,
+"alphaBankBonusEnabled": false,
 "alphaBankBonusVTid": "",
 "alphaBankBonusVMid": "",
-"useAlphaBankBonusBRAmount": true,
-"useAlphaBankBonusWithoutOffers": true,
+"useAlphaBankBonusBRAmount": false,
+"useAlphaBankBonusWithoutOffers": false,
 "eurobankEuroepistrofiEnabled": false,
 "eurobankEuroepistrofiVTid": "",
 "eurobankEuroepistrofiVMid": "",
 "nbgGo4MoreEnabled": false,
 "nbgGo4MoreVTid": "",
 "nbgGo4MoreVMid": "",
-"pbgYellowEnabled": true,
+"pbgYellowEnabled": false,
 "pbgYellowVTid": "",
 "pbgYellowVMid": "",
 "pbgYellowPointsToRedeem": "2000"
