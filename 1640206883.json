@@ -101,6 +101,8 @@
 "showEmvDataInReceipt": false,
 "useAutoCloseBatch": true,
 "useAutoCloseBatchTimer": "13:30",
+"useAutoParams":true,
+"useAutoParamsTimer":"02:16"
 "alphaBankDCCSupport": false,
 "alphaBankDCCProfileId": "19010",
 "alphaBankDCCPartnerId": "9010",
