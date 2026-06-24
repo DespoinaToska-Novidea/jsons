@@ -35,7 +35,7 @@
   "allowTransactions" : {
     "isAllowSalesPayment" : true,
     "isAllowVoidPayment" : true,
-    "isAllowRefundPayment" : false,
+    "isAllowRefundPayment" : true,
     "isAllowMotoPayment" : false
   },
   "applicationSettings" : {
