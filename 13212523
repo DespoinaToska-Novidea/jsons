@@ -821,7 +821,7 @@
       "image_setwifi_png": "https://mpos.cardlink.gr/files/easylink/icons/SET_Wifi.png"
     },
     "sp20_files": {
-      "bootFile": "https://mpos.cardlink.gr/files/easylink/sp20/EasyLink_Lite_v1.13.00W_SP20V4_20230615_sign.txt",
+      "bootFile" : "https://mpos.cardlink.gr/files/easylink/sp20/EasyLink_Lite_v1.13.07W_SP20V4_NO_JCB_PURE_20240207_sign.txt",
       "uiParam": "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4.txt",
       "uiGreekParam": "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4_greek.txt",
       "clssParam": "https://mpos.cardlink.gr/files/easylink/sp20/clss_param.txt",
